@@ -1,0 +1,6 @@
+#ignore .o
+.o
+/Debug
+.mk
+.project
+.cproject
